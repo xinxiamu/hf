@@ -1,0 +1,8 @@
+{
+  "name": "HF",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "214d6244"
+}
